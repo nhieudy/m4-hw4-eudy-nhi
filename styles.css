@@ -1,0 +1,34 @@
+body {
+    background-color: #fefae0;
+    margin: auto;
+}
+a{
+    padding: 10px;
+    color: #606c38;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+img {
+    display: block;
+    margin: auto;
+    padding: 30px;
+}
+h1 {
+    text-align: center;
+    color: #283618;
+    font-size: 30px;
+}
+
+h2, h3, footer{
+    color: #606c38;
+    text-align: center;
+}
+
+p.myReason{
+    color: #bc6c25;
+}
+
+section > .list, p {
+    color: #dda15e;
+}
